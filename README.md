@@ -81,4 +81,5 @@ pass
 ## 三、文档说明
 
 1.[wxpy官方文档](https://wxpy.readthedocs.io/zh/latest/)
+https://blog.csdn.net/u014044812/article/details/89406010
 
